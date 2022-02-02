@@ -3,7 +3,7 @@ Script and VEP results from the Optical mapping SV analyses from Talenti et al.
 
 ## Content
 The following repository contains two subfolders
- 1. [Results](https://github.com/evotools/CattleOManalyses/tree/main/Results): this folder contains the results from some analyses (e.g. the VEP HTML report [here]())
+ 1. [Results](https://github.com/evotools/CattleOManalyses/tree/main/Results): this folder contains the results from some analyses (e.g. the VEP HTML report [here](https://htmlpreview.github.io/https://github.com/evotools/CattleOManalyses/blob/main/Results/VEP/stats_summary.html))
  2. [Code](https://github.com/evotools/CattleOManalyses/tree/main/Code): the code used to run the analyses described in the paper
 
 ## Code

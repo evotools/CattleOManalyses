@@ -1,7 +1,7 @@
 #!/bin/bash
 nsample=`awk 'BEGIN{n=0};{n+=1};END{print n}' $1`
 svsize=$2
-snpsift=/home/atalent/Software/snpEff
+snpsift=/PATH/TO/snpEff
 
 SCRIPT_DIR=`realpath $(dirname -- "${BASH_SOURCE[0]}")`
 echo $SCRIPT_DIR

@@ -9,15 +9,15 @@ The following repository contains two subfolders
 ## Code
 To successfully run the scripts here presented you will need the following dependencies:
  1. [R](https://www.r-project.org/) with the following packages:
-  1. tidyverse
-  2. ggfortify
-  3. hrbrthemes
-  4. ggsci
-  5. ggpubr
-  6. ComplexHeatmap
-  7. gridExtra
-  8. cowplot
-  9. RColorBrewer
+   1. tidyverse
+   2. ggfortify
+   3. hrbrthemes
+   4. ggsci
+   5. ggpubr
+   6. ComplexHeatmap
+   7. gridExtra
+   8. cowplot
+   9. RColorBrewer
  2. [python](https://www.python.org/)
  3. [SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR/)
  4. [bedtools](https://bedtools.readthedocs.io/en/latest/)

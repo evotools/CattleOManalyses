@@ -1,4 +1,4 @@
-# CattleOManalyses
+# Cattle Optical Map analyses
 Script and VEP results from the Optical mapping SV analyses from Talenti et al.
 
 ## Content

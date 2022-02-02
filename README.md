@@ -8,21 +8,23 @@ The following repository contains two subfolders
 
 ## Code
 To successfully run the scripts here presented you will need the following dependencies:
- 1. [R](https://www.r-project.org/) with the following packages:
-   1. tidyverse
-   2. ggfortify
-   3. hrbrthemes
-   4. ggsci
-   5. ggpubr
-   6. ComplexHeatmap
-   7. gridExtra
-   8. cowplot
-   9. RColorBrewer
- 2. [python](https://www.python.org/)
- 3. [SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR/)
- 4. [bedtools](https://bedtools.readthedocs.io/en/latest/)
- 5. [bcftools](https://samtools.github.io/bcftools/bcftools.html)
- 6. [docker](https://samtools.github.io/bcftools/bcftools.html)
+1. [R](https://www.r-project.org/) with the following packages:
+  1. tidyverse
+  2. ggfortify
+  3. hrbrthemes
+  4. ggsci
+  5. ggpubr
+  6. ComplexHeatmap
+  7. gridExtra
+  8. cowplot
+  9. RColorBrewer
+2. [python](https://www.python.org/)
+3. [SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR/)
+4. [bedtools](https://bedtools.readthedocs.io/en/latest/)
+5. [bcftools](https://samtools.github.io/bcftools/bcftools.html)
+6. [docker](https://samtools.github.io/bcftools/bcftools.html)
+
+You will also need the 
 
 The `Code` folder contains the following subfolders:
  1. `RunBionanoSolve`: an example of the code used to process the optical mapping using the Bionano Solve workflow

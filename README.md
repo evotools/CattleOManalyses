@@ -32,3 +32,4 @@ The `Code` folder contains the following subfolders:
  2. `CountClasses`: the code used to generate the histogram in Figure 1 and to extract the numbers represented
  3. `AssessFiltering`: the code to assess multiple filtering thresholds, following the Bionano access prefiltering
  4. `nonRedundantDeletions`: the code used to extract the filtered Deletions into bed format to compute the non-redundant reference sequence in deletions 
+ 5. `GeneAnalysis`: the code used to extract the coding sequences and gene features that have an overlap with an identified SV

@@ -28,8 +28,9 @@ You will also need the
 
 The `Code` folder contains the following subfolders:
  1. `RunBionanoSolve`: an example of the code used to process the optical mapping using the Bionano Solve workflow
- 1. `VEP`: the code used to run the VEP
- 2. `CountClasses`: the code used to generate the histogram in Figure 1 and to extract the numbers represented
- 3. `AssessFiltering`: the code to assess multiple filtering thresholds, following the Bionano access prefiltering
- 4. `nonRedundantDeletions`: the code used to extract the filtered Deletions into bed format to compute the non-redundant reference sequence in deletions 
- 5. `GeneAnalysis`: the code used to extract the coding sequences and gene features that have an overlap with an identified SV
+ 2. `VEP`: the code used to run the VEP
+ 3. `CountClasses`: the code used to generate the histogram in Figure 1 and to extract the numbers represented
+ 4. `AssessFiltering`: the code to assess multiple filtering thresholds, following the Bionano access prefiltering, and generation of the UpSet plot
+ 5. `SizeAndSupportAnalysis`: the code used to assess the SV size based on the support (i.e. number of individuals that present the SVs) of the variant
+ 6. `nonRedundantDeletions`: the code used to extract the filtered Deletions into bed format to compute the non-redundant reference sequence in deletions 
+ 7. `GeneAnalysis`: the code used to extract the coding sequences and gene features that have an overlap with an identified SV
